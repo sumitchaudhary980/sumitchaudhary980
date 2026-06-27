@@ -2,7 +2,6 @@
 
 <h3 align="center">BSc (Hons) Computer Science Student at Herald College Kathmandu 🎓</h3>
 
-
 <br>
 
 <p align="center">
@@ -13,9 +12,9 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development, Modern Web Technologies, and Database Management**
 
-- 💻 Currently building applications using:
-  - **Node.js, Express.js, HTML, CSS, JavaScript, and MySQL**
-  - **React and Laravel**
+- 💻 Currently building:
+  - 📚 **Library Management System** using **Node.js, Express.js, HTML, CSS, JavaScript, and MySQL**
+  - 🎬 **Movie Booking Website** using **React and Laravel**
 
 - 🎓 Pursuing **BSc (Hons) Computer Science at Herald College Kathmandu**
 
@@ -31,13 +30,10 @@
 
 <p align="center">
   <a href="mailto:jaiswalsumit1010@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="30"/>
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="35"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sumit-chaudhary-505129320/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="30"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="35"/>
   </a>
-</p>
-
-
 </p>
