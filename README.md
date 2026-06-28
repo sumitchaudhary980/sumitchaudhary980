@@ -14,7 +14,7 @@
 
 - 🌱 Learning **Full-Stack Web Development & Databases**
 - 💻 Building:
-  - 📚 Library Management System (Node.js + MySQL)
+  - 📚 Library Management System (Node.js + SQLite)
   - 🎬 Movie Booking App (React + Laravel)
 - 🎓 Computer Science Student
 - 🔍 Interested in Backend & Modern Web Apps
