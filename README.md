@@ -26,15 +26,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitchaudhary980&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitchaudhary980&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitchaudhary980&layout=compact&theme=tokyonight&hide_border=true" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sumitchaudhary980&show_icons=true&theme=tokyonight&hide_border=true" width="350" height="180"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitchaudhary980&layout=compact&theme=tokyonight&hide_border=true" width="350" height="180"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitchaudhary980&theme=tokyonight&hide_border=true" width="350" height="180"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
