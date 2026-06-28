@@ -8,31 +8,52 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Web+Development+Enthusiast;React+%26+Node.js+Learner;Exploring+New+Technologies+🚀" />
 </p>
 
-<br>
+---
 
-- 🌱 I’m currently learning **Full-Stack Web Development, Modern Web Technologies, and Database Management**
+## 👨‍💻 About Me
 
-- 💻 Currently building:
-  - 📚 **Library Management System** using **Node.js, Express.js, HTML, CSS, JavaScript, and MySQL**
-  - 🎬 **Movie Booking Website** using **React and Laravel**
+- 🌱 Learning **Full-Stack Web Development & Databases**
+- 💻 Building:
+  - 📚 Library Management System (Node.js + MySQL)
+  - 🎬 Movie Booking App (React + Laravel)
+- 🎓 Computer Science Student
+- 🔍 Interested in Backend & Modern Web Apps
+- 📫 Email: **jaiswalsumit1010@gmail.com**
+- ⚡ Passionate about turning ideas into real projects
 
-- 🎓 Pursuing **BSc (Hons) Computer Science at Herald College Kathmandu**
+---
 
-- 🔍 Interested in **Web Development, Backend Technologies, and Creating User-Friendly Applications**
+## 📊 GitHub Stats
 
-- 📫 Reach me at **jaiswalsumit1010@gmail.com**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitchaudhary980&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-- ⚡ Fun fact: I enjoy exploring new technologies and transforming ideas into real-world applications 🚀
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitchaudhary980&theme=tokyonight&hide_border=true" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitchaudhary980&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<h3 align="center">📫 Let's Connect</h3>
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitchaudhary980&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:jaiswalsumit1010@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="35"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sumit-chaudhary-505129320/">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="35"/>
   </a>
